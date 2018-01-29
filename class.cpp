@@ -5,12 +5,12 @@ class Log
 {
 	private:
 		int m_LogLevel=LogLevelInfo;
+
+
+	public:
     const int LogLevelError = 0;
 	  const int LogLevelWarning = 1;
 	  const int LogLevelInfo = 2;
-
-	public:
-
 
     void SetLevel (int Level)
 		{
