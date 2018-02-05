@@ -1,7 +1,0 @@
-D:\Windows\GitHub\lab-exercise-chapter-8-fwzfhmy\class.cpp: In function 'int main()':
-D:\Windows\GitHub\lab-exercise-chapter-8-fwzfhmy\class.cpp:42:21: error: 'const int Log::LogLevelInfo' is private within this context
-  oLog.SetLevel(oLog.LogLevelInfo);
-                     ^~~~~~~~~~~~
-D:\Windows\GitHub\lab-exercise-chapter-8-fwzfhmy\class.cpp:10:29: note: declared private here
-    const int LogLevelInfo = 2;
-                             ^

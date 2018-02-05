@@ -41,7 +41,6 @@ int main()
 	Log oLog;
 	oLog.SetLevel(oLog.LogLevelInfo);
 	oLog.Info("Hello!!!");
-
-	std::cin.get();
+	
 
 }
